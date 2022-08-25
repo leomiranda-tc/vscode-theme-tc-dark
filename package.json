@@ -3,6 +3,9 @@
   "displayName": "tc-dark",
   "description": "tc-dark",
   "publisher": "leomiranda-tc",
+  "scripts": {
+    "generate":"vsce package"
+  },
   "author": {
     "name": "Leonardo Miranda"
   },
@@ -17,7 +20,7 @@
     "color": "#000",
     "theme": "dark"
   },
-  "icon":"assets/theme.png",
+  "icon": "assets/theme.png",
   "contributes": {
     "themes": [
       {
@@ -26,5 +29,8 @@
         "path": "./themes/tc-dark-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.10.2"
   }
 }
