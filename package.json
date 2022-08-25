@@ -1,0 +1,30 @@
+{
+  "name": "tc-dark",
+  "displayName": "tc-dark",
+  "description": "tc-dark",
+  "publisher": "leomiranda-tc",
+  "author": {
+    "name": "Leonardo Miranda"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "icon":"assets/theme.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "tc-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tc-dark-color-theme.json"
+      }
+    ]
+  }
+}
