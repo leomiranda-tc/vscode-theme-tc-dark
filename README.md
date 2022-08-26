@@ -1,6 +1,7 @@
 # TC Dark
 
 Theme TC VSCode
+<img src="./assets/example.png"/>
 
 ## Install
 ```shell
