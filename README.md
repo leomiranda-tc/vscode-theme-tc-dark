@@ -1,7 +1,7 @@
 # TC Dark
 
 Theme TC VSCode
-<img src="./assets/example.png" width="100%"/>
+<img src="https://github.com/leomiranda-tc/vscode-theme-tc-dark/blob/main/assets/example.png" width="100%"/>
 
 ## Install
 ```shell
