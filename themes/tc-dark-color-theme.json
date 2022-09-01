@@ -204,15 +204,6 @@
 			}
 		},
 		{
-			"name": "Entities 2",
-			"scope": [
-				"entity.name",
-			],
-			"settings": {
-				"foreground": "#657df8"
-			}
-		},
-		{
 			"name": "Keyword go",
 			"scope": [
 				"keyword.control.go",
@@ -243,10 +234,11 @@
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
+				"entity.name",
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#657df8"
 			}
 		},
 		{
