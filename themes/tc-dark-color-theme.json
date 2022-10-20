@@ -317,6 +317,15 @@
 			}
 		},
 		{
+			"name": "HTML tag",
+			"scope": [
+				"entity.name.tag.html",
+			],
+			"settings": {
+				"foreground": "#FF5370"
+			}
+		},
+		{
 			"name": "CSS Classes",
 			"scope": [
 				"entity.other.attribute-name.class"
